@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initTheme();
 });
 
-// Theme Switcher Handler (Dark / Light Mode)
+// Theme Switcher Handler (Dark/Light Mode)
 function initTheme() {
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'light') {
