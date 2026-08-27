@@ -46,7 +46,7 @@ body.light-mode {
   --shadow-card: 0 10px 30px -5px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(0, 0, 0, 0.05);
 }
 
-/* Mobile Quick-Add Floating Action Button (FAB) */
+/* Mobile Quick-Add Floating Action Button ("FAB") */ 
 .mobile-fab {
   display: none;
   position: fixed;
