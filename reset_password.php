@@ -1,5 +1,5 @@
 <?php
-//  auth/reset_password.php - Reset User Password with Token Validation
+// auth/reset_password.php - Reset User Password with Token Validation
 session_start();
 require_once __DIR__ . '/../config/database.php';
 require_once __DIR__ . '/../includes/security.php';
