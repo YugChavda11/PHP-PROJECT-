@@ -1,5 +1,5 @@
 <?php
-// analytics.php - Detailed Financial Reports & Visual Analytics with 1M to 12M Range Selector
+// analytics.php - Detailed Financial Reports & Visual Analytics with 1M to 12M Range Selector 
 session_start();
 require_once __DIR__ . '/config/database.php';
 require_once __DIR__ . '/includes/auth_check.php';
